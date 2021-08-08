@@ -1,4 +1,4 @@
-- 👋 Hi, je suis Assoidi MHIDINI @adeuxs
+- 👋 Hi, je suis Assoidi MHIDINI (@adeuxs)
 - 👀 je suis intéressé par la programmation
 - 🌱 j'apprends actuellement le Javascript.
 - 📫 Je suis joignable par email : contact@assoidi.fr
