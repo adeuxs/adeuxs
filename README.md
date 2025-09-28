@@ -1,7 +1,7 @@
 - 👋 Hi, je suis Assoidi MHIDINI (@adeuxs)
 - 👀 je suis développeur.
 - 🌱 j'apprends actuellement le Javascript.
-- 📫 Je suis joignable par email : contact@assoidi.fr
+- 📫 Je suis joignable par email : contact@planme.fr
 
 <!---
 adeuxs/adeuxs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
