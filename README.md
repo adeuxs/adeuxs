@@ -1,6 +1,5 @@
 - 👋 Hi, je suis Assoidi MHIDINI (@adeuxs)
 - 👀 je suis développeur.
-- 🌱 j'apprends actuellement le Javascript.
 - 📫 Je suis joignable par email : contact@planme.fr
 
 <!---
